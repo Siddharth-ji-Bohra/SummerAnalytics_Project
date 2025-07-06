@@ -1,5 +1,5 @@
 # SummerAnalytics_Project
-# 🚗 Dynamic Parking Price Optimization using Pathway
+# Dynamic Parking Price Optimization using Pathway
 
 This project implements a real-time dynamic pricing system for parking spaces using the **Pathway** stream processing engine and **Bokeh** for visualization.
 
@@ -7,7 +7,7 @@ We simulate and analyze data from a smart parking system to design two pricing m
 
 ---
 
-## 📦 Tech Stack Used
+## Tech Stack Used
 
 - **Python 3.10+**
 - **Pathway** (streaming computation framework)
