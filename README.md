@@ -17,9 +17,3 @@ We simulate and analyze data from a smart parking system to design two pricing m
 - **Pandas** (for pre-processing and exporting)
 - **Matplotlib / Seaborn** (optional visual checks)
 
----
-
-## 🏗️ Architecture Diagram (Mermaid)
-
-
-![Architecture](architecture_diagram.png)
